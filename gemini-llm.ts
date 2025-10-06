@@ -39,5 +39,6 @@ export class GeminiLLM {
         } catch (error) {
             console.error('❌ Error calling Gemini API:', (error as Error).message);
             throw error;
-        }    }
+        }    
+    }
 }
