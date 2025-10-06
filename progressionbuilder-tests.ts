@@ -1,5 +1,5 @@
 /**
- * SuggestChord Test Cases
+ * ProgressionBuilder Test Cases
  * 
  * Demonstrates chord suggestion with LLM on various inputs
  */

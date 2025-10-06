@@ -1,5 +1,5 @@
 /**
- * SuggestChord Concept - AI Augmented Version
+ * ProgressionBuilder Concept - AI Augmented Version
  */
 
 import { GeminiLLM } from './gemini-llm';
